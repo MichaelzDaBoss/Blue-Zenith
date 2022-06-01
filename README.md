@@ -1,2 +1,2 @@
 # Blue-Zenith
-Blue Zenith client deobfuscated and decompiled 
+Latest version of the paste. 
